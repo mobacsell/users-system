@@ -1,0 +1,14 @@
+# .log
+*.log
+
+# node_modules
+**/node_modules/
+
+# .env (конфигурации окружения)
+.env
+
+# build
+client/build/
+
+# all IDE files
+.vscode/
